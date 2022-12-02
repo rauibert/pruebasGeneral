@@ -1,2 +1,1 @@
-/*dsad */
-var saludo = "Hola";
+/* Esto será un archivo js */
